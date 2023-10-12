@@ -13,7 +13,8 @@ Etapas realizadas no processo de transformação de dados:
 - Mesclada a tabelas employee com a tabela departament 
 
 
-<foto>
+![image](https://github.com/Hallennen/data_power_BI/assets/64508688/4c8e11e9-0615-43bc-b851-5b51d0bb79ec)
+
 
 
 # Diferença entre Acrescentar Consultas e Mesclar Consultas no BI
